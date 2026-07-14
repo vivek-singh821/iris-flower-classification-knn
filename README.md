@@ -37,6 +37,9 @@ This project uses supervised machine learning to classify Iris flowers into thre
 - Weighted F1 Score: 1.00
 
 ### Confusion Matrix
+### Confusion Matrix Visualization
+
+![KNN Confusion Matrix](confusion_matrix.png)
 
 The model correctly classified all 30 test samples in the selected train-test split.
 
